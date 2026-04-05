@@ -1,0 +1,23 @@
+John Snow
+Question 1: Correlation vs. Causation
+John Snow moved beyond simple correlation by gathering empirical data and investigating "outliers" that didn't fit the general pattern. His specific steps included:
+•	Door-to-Door Data Collection: He recorded the exact location of every death and the specific source of drinking water for each household.
+•	Spatial Visualization: He created a map using black bars to represent deaths, which revealed a heavy concentration around the Broad Street pump.
+•	Interrogating Anomalies: He investigated "exceptions" where people lived near the pump but didn't die, or died far away but drank the water:
+o	The Brewery & Workhouse: Workers at the nearby brewery and residents of the workhouse had almost no deaths because they relied on their own private wells rather than the public pump.
+o	The Hampstead Widow: Snow found a woman who died miles away in a cholera-free area; he discovered she had the Broad Street water delivered to her weekly because she liked the taste.
+•	Physical Intervention: He proved his theory by having the pump handle removed, which stopped the immediate outbreak.
+
+Question 2: The Danger of Missing Data
+Imagine if Snow had only collected data from the local hospitals, rather than walking the streets and knocking on doors. How would this have changed his dataset, and how might it have altered his conclusions?
+If Snow had relied solely on hospital records, his dataset would have been critically flawed:
+•	Missing the Full Picture: Many victims died at home and never reached a hospital. Relying only on hospitals would have created "holes" in his spatial map, potentially hiding the true cluster around the pump.
+•	Loss of Critical Context: Hospital records at the time rarely tracked specific daily habits, such as where a patient fetched their water.
+•	Reinforcing the Wrong Theory: Since hospitals were often smelly and crowded, a hospital-only dataset might have actually supported the "Miasma" (bad air) theory instead of the water-borne theory.
+•	Question 3: The “Miasma” of Today
+•	The “miasma theory” was a widely accepted consensus that was fundamentally incorrect but seemed to explain the surface-level facts (Soho smelled bad, and people in Soho were dying). What is a modern example of a “miasma”—a widely accepted assumption in business, society, or science that might fall apart if rigorously tested with data?
+A modern "miasma" is any widely accepted assumption that seems logical but might fall apart under rigorous data testing. Examples include:
+•	The "Productivity" Miasma: The belief that "longer hours always equal more output." Data science often shows that overwork leads to diminishing returns and errors, yet the cultural assumption persists.
+•	The "Dietary" Miasma: For decades, it was a consensus that "all fat is bad for the heart." Rigorous testing later revealed that certain fats are essential, while processed sugars (often used in "low-fat" foods) were a bigger threat.
+•	The "AI" Miasma: The assumption that "more data always leads to a better model." In reality, biased or low-quality data can make a model worse, regardless of its size.
+
